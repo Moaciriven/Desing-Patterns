@@ -20,5 +20,3 @@ O exemplo fornecido consiste em duas classes principais:
 - `Product`: Define a interface para os objetos que o método de fábrica criará.
 - `Creator`: Declara o método de fábrica que retorna um objeto `Product`. 
 
-```cpp
-// Insira o código do exemplo aqui
